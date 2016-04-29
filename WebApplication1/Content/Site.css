@@ -44,3 +44,15 @@ input[type="checkbox"].input-validation-error {
 .top-margin{
     margin-top:20px;
 }
+
+.list-group-item{
+    padding-bottom:3px;
+}
+
+div > label{
+    font-weight: normal !important;
+}
+
+label > input {
+    margin-right: 5px;
+}
